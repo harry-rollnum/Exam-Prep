@@ -1,0 +1,45 @@
+CS615PE: SOFTWARE TESTING METHODOLOGIES LAB (Professional Elective – III)
+
+Course Objectives
+ To provide knowledge of software testing methods.
+ To develop skills in automation of software testing and software test automation management
+using the latest tools.
+
+Course Outcomes
+ Design and develop the best test strategies in accordance with the development model.
+ Design and develop GUI, Bitmap and database checkpoints
+ Develop database checkpoints for different checks
+ Perform batch testing with and without parameter passing
+
+List of Experiments
+1. Recording in context sensitive mode and analog mode
+2. GUI checkpoint for single property
+3. GUI checkpoint for single object/window
+4. GUI checkpoint for multiple objects
+5.
+a. Bitmap checkpoint for object/window
+b. Bitmap checkpoint for screen area
+6. Database checkpoint for Default check
+6. Database checkpoint for custom check
+6. Database checkpoint for runtime record check
+6.
+a. Data driven test for dynamic test data submission
+b. Data driven test through flat files
+c. Data driven test through front grids
+d. Data driven test through excel test
+a. Batch testing without parameter passing
+b. Batch testing with parameter passing
+11. Data driven batch
+11. Silent mode test execution without any interruption
+12. Test case for calculator in windows application
+
+TEXT BOOKS
+1. Software Testing techniques, Baris Beizer, 2nd Edition, Dreamtech.
+2. Software Testing Tools, Dr. K.V.K.K.Prasad, Dreamtech.
+
+REFERENCE BOOKS
+1. The craft of software testing, Brian Marick, Pearson Education.
+2. Software Testing Techniques – SPD(Oreille)
+3. Software Testing in the Real World, Edward Kit, Pearson.
+4. Effective methods of Software Testing, Perry, John Wiley.
+5. Art of Software Testing, Meyers, John Wiley.

@@ -1,0 +1,50 @@
+CS635PE: SOFTWARE TESTING METHODOLOGIES (Professional Elective – III)
+
+Course Objectives
+ To provide knowledge of the concepts in software testing such as testing process, criteria,
+strategies, and methodologies.
+ To develop skills in software test automation and management using the latest tools.
+
+Course Outcomes:
+ Understand purpose of testing and path testing
+ Understand strategies in data flow testing and domain testing
+ Develop logic-based test strategies
+ Understand graph matrices and its applications
+ Implement test cases using any testing automation tool
+
+UNIT - I
+Introduction: Purpose of testing, Dichotomies, model for testing, consequences of bugs, taxonomy of
+bugs Flow graphs and Path testing: Basics concepts of path testing, predicates, path predicates and
+achievable paths, path sensitizing, path instrumentation, application of path testing.
+
+UNIT - II
+Transaction Flow Testing: transaction flows, transaction flow testing techniques.
+Data Flow testing: Basics of data flow testing, strategies in data flow testing, application of data flow
+testing.
+Domain Testing: domains and paths, Nice & ugly domains, domain testing, domains and interfaces
+testing, domain and interface testing, domains and testability.
+
+UNIT - III
+Paths, Path products and Regular expressions: path products & path expression, reduction procedure,
+applications, regular expressions & flow anomaly detection.
+Logic Based Testing: overview, decision tables, path expressions, kv charts, specifications.
+
+UNIT - IV
+State, State Graphs and Transition testing: state graphs, good & bad state graphs, state testing,
+Testability tips.
+
+UNIT - V
+Graph Matrices and Application: Motivational overview, matrix of graph, relations, power of a matrix,
+node reduction algorithm, building tools. (Student should be given an exposure to a tool like
+Jmeter/selenium/soapUI/Catalon).
+
+TEXT BOOKS:
+1. Software Testing techniques - Baris Beizer, Dreamtech, second edition.
+2. Software Testing Tools – Dr. K. V. K. K. Prasad, Dreamtech.
+
+REFERENCE BOOKS:
+1. The craft of software testing - Brian Marick, Pearson Education.
+2. Software Testing Techniques – SPD(Oreille)
+3. Software Testing in the Real World – Edward Kit, Pearson.
+4. Effective methods of Software Testing, Perry, John Wiley.
+5. Art of Software Testing – Meyers, John Wiley
